@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <!--
+      Radial gradient fading from semi-transparent white (#66FFFFFF)
+      to transparent (#00FFFFFF).
+      gradientRadius should be roughly half the size of the glow View.
+    -->
+    <gradient
+        android:type="radial"
+        android:centerX="0.5"
+        android:centerY="0.5"
+        android:gradientRadius="150dp"
+        android:startColor="#66FFFFFF"
+        android:endColor="#00FFFFFF" />
+</shape>

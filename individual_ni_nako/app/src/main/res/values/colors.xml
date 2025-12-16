@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Night Sky Palette -->
+    <color name="night_start">#1B1C4B</color> <!-- Deep Indigo -->
+    <color name="night_end">#0E0F28</color>   <!-- Darker Navy -->
+
+    <!-- Accent Colors -->
+    <color name="moon_white">#FFFFFF</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0C8</color>
+
+    <!-- Button Gradient Colors -->
+    <color name="btn_start">#D988FF</color> <!-- Pink/Lavender -->
+    <color name="btn_end">#9B68FF</color>   <!-- Purple -->
+
+    <!-- UI Elements -->
+    <color name="input_bg">#20FFFFFF</color> <!-- Translucent White -->
+    <color name="card_bg">#15FFFFFF</color>  <!-- Glassmorphism effect -->
+    <color name="icon_tint">#A0A0FF</color>
 </resources>
