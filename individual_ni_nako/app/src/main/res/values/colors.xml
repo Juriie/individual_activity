@@ -17,4 +17,27 @@
     <color name="input_bg">#20FFFFFF</color> <!-- Translucent White -->
     <color name="card_bg">#15FFFFFF</color>  <!-- Glassmorphism effect -->
     <color name="icon_tint">#A0A0FF</color>
+
+    <color name="navy_blue">#1F2B46</color>
+    <color name="light_gray_bg">#F3F5F7</color>
+    <color name="text_hint">#909090</color>
+
+    <color name="coffee_brown">#6F4E37</color>
+    <color name="coffee_brown_dark">#4A332A</color>
+    <color name="background_gray">#F9F9F9</color>
+    <color name="text_dark">#212121</color>
+    <color name="text_light">#9E9E9E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="nav_green">#1B5E20</color>
+    <color name="search_bg">#F1F1F1</color>
+
+    <color name="coffee_brown">#6F4E37</color>
+    <color name="coffee_text">#3E2723</color>
+    <color name="coffee_price">#2D1E19</color>
+    <color name="soft_bg">#F9F9F9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey_text">#9E9E9E</color>
+    <color name="search_bg">#EDEDED</color>
+    <color name="nav_selected">#2E7D32</color>
+    <color name="rating_orange">#DDA031</color>
 </resources>
